@@ -1,5 +1,5 @@
 # GloomyOS
-Minecraft ComputerCraft GUI based OS project
+Minecraft ComputerCraft GUI OS project
 
 Currently very broken
 
